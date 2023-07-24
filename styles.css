@@ -1,0 +1,182 @@
+    <title>Search Container Example</title>
+    <style>
+        /* Apply styles to the search container */
+        .search-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+            background-color: #f2f2f2;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        /* Style the input element */
+        .search-input {
+            width: 200px;
+            padding: 5px;
+            margin-right: 10px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
+
+        /* Style the search button */
+        .search-button {
+            padding: 5px 10px;
+            background-color: #4CAF50;
+            color: #fff;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+    </style>
+
+    <title>Search-Filter Example</title>
+    <style>
+        /* Apply styles to the search container */
+        .search-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+            background-color: #f2f2f2;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+
+        /* Style the input element */
+        .search-input {
+            width: 200px;
+            padding: 5px;
+            margin-right: 10px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
+
+        /* Style the search button */
+        .search-button {
+            padding: 5px 10px;
+            background-color: #4CAF50;
+            color: #fff;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+
+        /* Apply styles to the filter container */
+        .filter-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+            background-color: #f2f2f2;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        /* Style the filter select element */
+        .filter-select {
+            padding: 5px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
+
+        /* Style the filter button */
+        .filter-button {
+            padding: 5px 10px;
+            background-color: #007BFF;
+            color: #fff;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+            margin-left: 10px;
+        }
+    </style>
+
+    <title>Featured Pokémon Container</title>
+    <style>
+        /* Featured container styles */
+        .featured-container {
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 2px solid #333;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            background-color: #f9f9f9;
+            text-align: center;
+        }
+
+        /* Pokémon name style */
+        .pokemon-name {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        /* Pokémon image style */
+        .pokemon-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 50%;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Pokémon description style */
+        .pokemon-description {
+            margin-top: 10px;
+        }
+
+        /* Type tag styles */
+        .type-tag {
+            display: inline-block;
+            padding: 5px 10px;
+            background-color: #f4f5f4;
+            color: #01f52a;
+            border-radius: 3px;
+            margin: 5px;
+        }
+    </style>
+
+
+
+    <style>
+/* Status container styles */
+.status-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+/* Status label styles */
+.status-label {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Status tag styles */
+.status-tag {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 3px;
+    margin: 5px;
+}
+
+/* Styles for the caught status */
+.status-caught {
+    background-color: #28a745;
+    color: #fff;
+}
+
+/* Styles for the uncaught status */
+.status-uncaught {
+    background-color: #dc3545;
+    color: #fff;
+}
+</style>
